@@ -34,7 +34,7 @@ body {
 
 header {
   background-color: var(--clr-accent);
-  background-image: radial-gradient(ellipse at 70% 60%, #e8a07a, var(--clr-accent) 65%);
+  background-image: radial-gradient(ellipse at 70% 60%, #a29ed6, var(--clr-accent) 65%);
   color: #fff;
   padding: 5rem 2rem 4rem;
   text-align: center;
